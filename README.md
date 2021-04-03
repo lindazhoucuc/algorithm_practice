@@ -1,1 +1,2 @@
-# algorithm_practice
+# leetcode 
+## implemented by c++
